@@ -1,8 +1,8 @@
-\# “智协同”企业一体化办公平台
+\# 企业一体化办公平台
 
 
 
-\*\*ZhiXieTong - An Enterprise Collaboration Platform\*\*
+\*\*An Enterprise Collaboration Platform\*\*
 
 
 
@@ -10,11 +10,7 @@
 
 
 
-!\[Dashboard Screenshot](https://raw.githubusercontent.com/YOUR\_GITHUB\_USERNAME/YOUR\_REPO\_NAME/main/docs/screenshot\_dashboard.png)
-
-\*(请将这张图片替换为你自己项目的截图)\*
-
-
+![b42efc126d8724e69c4e8db36d7d99d9](https://github.com/user-attachments/assets/7d8e49f2-d945-4b4f-b3d8-40d06a3f56df)
 
 ---
 
@@ -40,6 +36,7 @@
 
 \## 🚀 快速开始 (Quick Start)
 
+![image](https://github.com/user-attachments/assets/325bbc1c-fd87-403d-b4be-420c044cee41)
 
 
 \### 环境要求
@@ -53,6 +50,7 @@
 
 
 \### 后端启动
+![image](https://github.com/user-attachments/assets/5ec155ee-6407-408f-a606-cf0fe44d3f4b)
 
 
 
@@ -92,6 +90,7 @@
 
 &nbsp;   - 复制 `oaback/settings.py.example` (你需要创建一个) 为 `oaback/settings.py`，并修改其中的数据库连接信息。
 
+![0840b1d86fbd057c85251376203ebcf6](https://github.com/user-attachments/assets/a133bb9c-b61c-4e9a-9196-d0202816c8c0)
 
 
 5\.  执行数据库迁移和数据填充:
@@ -178,17 +177,18 @@
 
 
 
-\*\*登录页\*\*
-
-!\[Login Screenshot](https://raw.githubusercontent.com/YOUR\_GITHUB\_USERNAME/YOUR\_REPO\_NAME/main/docs/screenshot\_login.png)
-
-
-
 \*\*部门管理\*\*
 
-!\[Department Screenshot](https://raw.githubusercontent.com/YOUR\_GITHUB\_USERNAME/YOUR\_REPO\_NAME/main/docs/screenshot\_department.png)
+![70123aa1a7119fadd16c75d7362c156b](https://github.com/user-attachments/assets/e7325380-4af3-440f-b74c-baa1eee74285)
 
 
 
-\*(请将这些图片替换为你自己项目的截图)\*
+
+\*\*员工管理\*\*
+
+![9a01a4cf3b65af000aae3acccf33485c](https://github.com/user-attachments/assets/6994ca37-9984-49a4-8d5a-50186d7bbd13)
+
+
+
+
 
