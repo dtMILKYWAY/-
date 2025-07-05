@@ -1,0 +1,2 @@
+def management():
+    return None
